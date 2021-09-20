@@ -6,7 +6,7 @@ body{
 header{
     height: 55px;
     width: 100%;
-    background-color: rgba(34, 49, 52, 0.9);
+    background-color: rgba(45, 211, 245, 0.9);
   }
 .container{
     width: max;
@@ -102,3 +102,7 @@ header{
     margin-right: 5px;
 }
 
+.lesson{
+    float:left;
+    width: 25%;
+}
